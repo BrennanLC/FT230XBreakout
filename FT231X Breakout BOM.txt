@@ -1,0 +1,23 @@
+Partlist exported from C:/Users/BrennanLC2/Documents/GitHub/FT231XBreakout/FT231X Breakout.sch at 11/3/2013 5:31:38 PM
+
+Part      Value        Device           Package          Description                                                                                                                                               
+C1        0.1uF        CAP0603-CAP      0603-CAP         Capacitor                                                                                                                                                 
+C2        0.1uF        CAP0603-CAP      0603-CAP         Capacitor                                                                                                                                                 
+C3        10uF         CAP_POL1206-KIT  EIA3216-KIT      Capacitor Polarized                                                                                                                                       
+C4        47pF         CAP0603-CAP      0603-CAP         Capacitor                                                                                                                                                 
+C5        47pF         CAP0603-CAP      0603-CAP         Capacitor                                                                                                                                                 
+F1        PTCSMD       PTCSMD           PTC-1206         Resettable Fuse PTC                                                                                                                                       
+FRAME1    FRAME-LETTER FRAME-LETTER     CREATIVE_COMMONS Schematic Frame                                                                                                                                           
+JP1                    M07              1X07             Header 7                                                                                                                                                  
+JP2       USBSMD       USBSMD           USB-MINIB        USB Connectors                                                                                                                                            
+LED1                   LED0603          LED-0603         LEDs                                                                                                                                                      
+LED2                   LED0603          LED-0603         LEDs                                                                                                                                                      
+R1        270          RESISTOR0603-RES 0603-RES         Resistor                                                                                                                                                  
+R2        270          RESISTOR0603-RES 0603-RES         Resistor                                                                                                                                                  
+R3        27           RESISTOR0603-RES 0603-RES         Resistor                                                                                                                                                  
+R4        27           RESISTOR0603-RES 0603-RES         Resistor                                                                                                                                                  
+STANDOFF1 STAND-OFF    STAND-OFF        STAND-OFF        #4 Stand Off                                                                                                                                              
+STANDOFF2 STAND-OFF    STAND-OFF        STAND-OFF        #4 Stand Off                                                                                                                                              
+STANDOFF3 STAND-OFF    STAND-OFF        STAND-OFF        #4 Stand Off                                                                                                                                              
+STANDOFF4 STAND-OFF    STAND-OFF        STAND-OFF        #4 Stand Off                                                                                                                                              
+U1        FT230XSSOP   FT230XSSOP       SSOP16           The FT230X is a simple USB to serial converter IC. The CBUS lines can be used as TX and RX activity LEDs, RS485 Tx data enable, and device sleep control. 
